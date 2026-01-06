@@ -1,7 +1,7 @@
 # Population & Workforce Dynamic Analysis 
 
 ## Overview
-This Project analyzes how demographic changes impact workfoorce sustainability over time.
+This Project analyzes how demographic changes impact workforce sustainability over time.
 A population dynmaics model was built in Excel and extended in Python to evaluate long-term trends. 
 
 ## Tools Used
