@@ -12,7 +12,7 @@ A population dynmaics model was built in Excel and extended in Python to evaluat
 ## Model Descripstion 
 The model divides the population into three groups:
 - Youth
-- Workewrs
+- Workers
 - Retirees
 
 Transition rates such as birth rate, workforce entry, retirement, and mortality are used to simulate population changes over multiple decades. 
